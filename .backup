@@ -1,1 +1,8 @@
-dbf032bf-e00e-44eb-98e2-f4c724ea4031
+{
+  "id": "dbf032bf-e00e-44eb-98e2-f4c724ea4031",
+  "created_at": "2025-09-06T18:47:43.072606487Z",
+  "last_backup": "2025-09-06T18:47:43.072606903Z",
+  "directory_path": "/home/ubuntu/projects/2025-09/backup-helper/test-uuid",
+  "total_backups": 0,
+  "repositories": []
+}
